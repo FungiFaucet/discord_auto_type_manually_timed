@@ -1,10 +1,11 @@
 # discord_auto_type_manually_timed
-this very simple python script clicks on your search bar, and enters some text every XX seconds.  
+this very simple python script clicks on your discord message bar (where you click to send messages), and enters some text every XX seconds.  
 
 # Installation / Setup
 install pyautogui using pip.
 
 from cmd / powershell / IDE terminal type:
+
 pip install pyautogui
 
 # Adjusting the variables
